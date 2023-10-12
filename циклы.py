@@ -2,7 +2,6 @@ a = True
 n = 0
 while a:
     n = n + 1
-    print(n)
     if n == 40:
         a = False
 
